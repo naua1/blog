@@ -40,10 +40,26 @@ list-style-type: square ;
 
 
 }
+
+article  a{
+ padding: 20px 30px 20px 30px;
+ background-color: rgb(89, 86, 86);
+ text-decoration: none;
+ color:white;
+margin-left: 43vw;
+border-radius: 10px;
+
+}
+a:hover{
+
+    background-color:rgb(137, 133, 133);
+}
+
 footer{
     height: 5vh;
     text-align: center;
     background-color: gray;
+    margin-top: 5vh;
 }
 address{
     padding-top: 1vh;
